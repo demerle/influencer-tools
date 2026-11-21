@@ -1,0 +1,9 @@
+{
+  "redirect_uri": "https://localhost/callback",
+
+  "instagram_app_id": "paste your Instagram app ID here",
+  "instagram_app_secret": "paste your Instagram app secret here",
+
+  "tiktok_client_key": "paste your TikTok client key here",
+  "tiktok_client_secret": "paste your TikTok client secret here"
+}

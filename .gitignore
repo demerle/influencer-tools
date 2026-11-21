@@ -1,0 +1,10 @@
+# Secrets: never commit these
+config.json
+tokens.json
+client_secret.json
+
+# Videos uploaded through the web page
+uploads/
+
+.venv/
+__pycache__/
